@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&center=%E5%81%87&vCenter=%E5%81%87&repeat=%E7%9C%9F&random=%E5%81%87&width=435&lines=Hello+I'm+HeyunYY;Welcome+to+my+warehouse)](https://git.io/typing-svg)
-## 👋 This is Heyun
-Skills
+## 👋 About me
+I am a Chinese student who is developing the official website of Aurora Galaxy game server
 
-Front End / Backend
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyunYY)
 <!--
 **HeyunYY/HeyunYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
