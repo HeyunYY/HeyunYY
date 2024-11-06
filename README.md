@@ -1,11 +1,7 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello！I`m HeyunYY)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello！I`m;HeyunYY)
 ##👋 This is Heyun
 Skills
 Front End / Backend
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyunYY)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyunYY)
 <!--
 **HeyunYY/HeyunYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
