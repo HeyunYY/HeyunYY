@@ -2,7 +2,7 @@
 ## 👋 About me
 I am a Chinese student who is developing the official website of Aurora Galaxy game server
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyunYY)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyunYY)
 <!--
 **HeyunYY/HeyunYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
